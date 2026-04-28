@@ -131,7 +131,7 @@ print(response.json())
 
 ## Built By
 
-**[Your Name]** & **[Team Member Name]**
+**Sushma Upadhayay** & **Richard Perez**
 Bucknell University · ANOP 330 · Spring 2026
 
 *This project was built for educational purposes as part of a business analytics final project. Not financial advice.*
