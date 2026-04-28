@@ -1,4 +1,6 @@
 streamlit
-pandas
-numpy
+fastapi
+uvicorn
 scikit-learn
+numpy
+pandas
