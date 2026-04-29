@@ -73,8 +73,6 @@ The models don't just guess — they were trained, validated, and tested on hist
 
 🌐 **Streamlit App:**http://localhost:8503/
 
-🔗 **Prediction API:** 
-
 ---
 
 ## Try the API
