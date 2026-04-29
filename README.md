@@ -17,8 +17,8 @@ We built a machine learning system that does exactly that.
 
 Using a real-world dataset of thousands of Lending Club loan applications, we trained two models that work together to evaluate any loan application in real time:
 
-- **A Logistic Regression Classifier** — predicts the probability that a borrower will fully repay their loan
-- **A LASSO Regressor** — predicts the pessimistic annualized return if the loan is funded
+- **A Logistic Regression Classifier** - predicts the probability that a borrower will fully repay their loan
+- **A LASSO Regressor** - predicts the pessimistic annualized return if the loan is funded
 
 Feed it a borrower's financial profile. It tells you whether to approve, review, or decline — instantly.
 
@@ -37,7 +37,7 @@ Regressor  → "Expected pessimistic return: +3.2%"
 Recommendation: ✅ APPROVE
 ```
 
-The models don't just guess — they were trained, validated, and tested on historical Lending Club data using industry-standard techniques including polynomial feature expansion, log transformations, and regularization to prevent overfitting.
+The models don't just guess - they were trained, validated, and tested on historical Lending Club data using industry-standard techniques including polynomial feature expansion, log transformations, and regularization to prevent overfitting.
 
 ---
 
@@ -75,7 +75,7 @@ The models don't just guess — they were trained, validated, and tested on hist
 
 ---
 
-## Try the API
+## Try the API ### Under...Construction....
 
 Once deployed, you can hit the `/predict` endpoint with any loan application:
 
